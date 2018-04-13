@@ -1,0 +1,8 @@
+    #header { height: 60px;padding-top: 7px;background: #5cb85c; border-bottom: 5px solid #c2c2c2; }
+    #main-left { height: 900px;background: #2E3238; }
+    .uk-nav a { color: #c2c2c2; }
+    .uk-nav a:hover { color: #fff; }
+    .uk-navbar-nav li a { color: #fff; }   
+    .uk-navbar-brand { margin-left: -35px; }
+    .uk-parent > a { height: 40px;line-height: 40px; }
+    .uk-nav-sub li a { height: 30px;padding-left: 15px; }
